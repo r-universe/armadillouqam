@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ClusterStability"]
+	path = ClusterStability
+	url = https://github.com/cran/ClusterStability
+	shallow = true
+	registered = true
